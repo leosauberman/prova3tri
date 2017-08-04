@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  raca: MyString
+  porte: MyString
+  pesoM: MyString
+  caracteristicas: MyString
+
+two:
+  raca: MyString
+  porte: MyString
+  pesoM: MyString
+  caracteristicas: MyString
